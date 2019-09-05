@@ -1,0 +1,62 @@
+#logo {
+    width: 250px;
+    height: 50px;
+}
+
+#link {
+    color: black;
+}
+
+.card {
+    margin: 1em;
+    padding: 1em;
+    display: block;
+}
+
+article {
+    margin: 1em;
+    padding: 1em;
+    display: block;
+}
+
+#project {
+    color: white !important;
+}
+
+#breadcrumb {
+    background: transparent;
+}
+
+#breadcrumb>li a {
+    color: white;
+    text-transform: uppercase;
+}
+
+#breadcrumb>li {
+    color: white;
+    text-transform: uppercase;
+}
+
+#breadcrumb>li a:focus,
+#breadcrumb>li a:hover {
+    color: #28ABE3;
+}
+
+.card {
+    transition: all 0.3s ease 0s;
+}
+
+.card:focus,
+.card:hover {
+    box-shadow: 0 5px 65px 0 rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 0 5px 65px 0 rgba(0, 0, 0, 0.15);
+}
+
+.testimonial {
+    background: #28ABE3 !important;
+}
+
+#profile_image {
+    transform: rotate(90deg);
+    margin-top: 3.5em;
+}
