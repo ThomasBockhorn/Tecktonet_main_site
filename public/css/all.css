@@ -13855,6 +13855,7 @@ article {
 
 #profile_image {
     transform: rotate(90deg);
+    -moz-transform: translateY(90deg);
     margin-top: 3.5em;
 }
 
