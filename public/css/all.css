@@ -1,3 +1,12 @@
+/*This will make the navbar black when looking from a mobile
+device
+*/
+@media only screen and (max-width: 768px) {
+    #navbar-default {
+        background-color: black !important;
+    }
+}
+
 @-webkit-keyframes preloader {
     25% {
         height: 30px;
