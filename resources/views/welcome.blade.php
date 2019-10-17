@@ -94,7 +94,7 @@
             </div>
             <!-- /section title -->
             <div class="col-md-6">
-                <img src="{{ asset('../css/template/images/about/about-2.png')}}" class="img-responsive" alt="">
+                <img src="{{ asset('../css/template/images/about/about-2.png')}}" class="img-thumbnail" alt="">
             </div>
             <div class="col-md-6">
                 <ul class="checklist">
