@@ -12,6 +12,8 @@
 
     <meta name="Thomas Bockhorn" content="tecktonet.com">
 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
     <!-- Mobile Specific Meta
   ================================================== -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
