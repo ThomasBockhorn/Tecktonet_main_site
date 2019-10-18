@@ -6,7 +6,7 @@
 
     <!--==========Header====================================-->
         <div class="container">
-            <div class="row" style="width: 100vh">
+            <div id="hero" class="row">
                 <div class="col-md-12">
                     <div class="block">
                         <h1>Welcome</h1>
