@@ -16,8 +16,8 @@
 <section class="m-4">
     <div class="container">
         <div class="row">
-            <div class="col-md-4">
-                <img id="profile_image" src="{{ asset('../css/template/images/team/IMG_0249.jpg')}}" alt="" class="img-thumbnail">
+            <div class="col-md-4 mb-5">
+                <img id="profile_image" src="{{ asset('../css/template/images/team/ThomasB.jpg')}}" alt="" class="img-thumbnail">
             </div>
             <div class="col-md-8">
                 <p>Hi</p>
